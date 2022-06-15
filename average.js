@@ -9,3 +9,5 @@ function average() {
 
 }
 console.log(average());
+//adding a new feature
+console.log('I love coding');
